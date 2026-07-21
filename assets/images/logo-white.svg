@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 50" width="240" height="50">
+  <!-- Icon: Modern Corporate Shield and Arrow -->
+  <g transform="translate(5, 0)">
+    <path d="M12 5 L28 13 L28 29 C28 38 18 43 12 45 C6 43 -4 38 -4 29 L-4 13 Z" fill="#ffffff" />
+    <path d="M12 10 L23 16 L23 27 C23 33 16 38 12 40 C8 38 1 33 1 27 L1 16 Z" fill="#ff5e14" />
+    <path d="M12 15 L7 22 L11 22 L11 32 L13 32 L13 22 L17 22 Z" fill="#ffffff" />
+  </g>
+  <!-- Brand Text -->
+  <text x="45" y="28" font-family="'Outfit', 'Inter', sans-serif" font-size="22" font-weight="800" fill="#ffffff" letter-spacing="0.5">Global<tspan fill="#ff5e14">HRMC</tspan></text>
+  <text x="45" y="40" font-family="'Outfit', 'Inter', sans-serif" font-size="8" font-weight="700" fill="#e5e7eb" letter-spacing="1">EXECUTIVE RECRUITMENT</text>
+</svg>
